@@ -1,4 +1,4 @@
 const API_URL = 'https://www.universal-tutorial.com/api/';
-const API_TOKEN = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7InVzZXJfZW1haWwiOiJoYW1tYWFnYXphcm9rQGdtYWlsLmNvbSIsImFwaV90b2tlbiI6IllZR01zNW9zenctVzd6amJZYm9ldkdVVHRERU1YZjA0ZldvbmpkR1paMVdJR193VVJUVjdaNThXS3JOajFweEY0NVkifSwiZXhwIjoxNjYyMjE3NzMxfQ.UkQt_kZn3XuTY7Bwan_6JIQUJgyRJtdxLI-BxtBRy_o';
+const API_TOKEN = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7InVzZXJfZW1haWwiOiJtdmdhZGFnaUBnbWFpbC5jb20ifSwiZXhwIjoxNTY2MjM0ODU0fQ.nMWPN38zptwwDKAo11bFyjhCRuzNhZc6NqqCaYJVxP0';
 
 export { API_URL, API_TOKEN };
