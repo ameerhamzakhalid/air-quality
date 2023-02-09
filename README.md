@@ -54,9 +54,8 @@ A web app that provides users with air quality rates and pollutant concentration
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-Currently not available - I will upload once the Project is complete
 
-<!-- [Live Demo Link](https://air-quality) -->
+[Live Demo Link](https://air-quality-ahk.netlify.app/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
