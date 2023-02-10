@@ -154,13 +154,18 @@ If you like this project kindly leave a star
 <!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
-
-I would like to thank microverse for the great resources shared.
+- I would like to give Credit to 🙏 [Nelson Sakwa](https://www.behance.net/sakwadesignstudio) the [author of the original design](https://www.behance.net/gallery/31579789/Ballhead-App-(Free-PSDs)), as required by the [Creative Commons License](https://creativecommons.org/licenses/).
+- [Microverse](https://www.microverse.org/)
+- Thanks to the Microverse team for the great curriculum.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LICENSE -->
+<!-- FAQ (optional) -->
+
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](./LICENCE) licensed.
+This project is [MIT](https://github.com/ameerhamzakhalid/air-quality/blob/dev/LICENSE) licensed.
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
